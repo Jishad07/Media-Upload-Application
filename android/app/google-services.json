@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "492799146273",
+    "project_id": "here-dating-app",
+    "storage_bucket": "here-dating-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492799146273:android:e2a22c8ada4c25b5f3e660",
+        "android_client_info": {
+          "package_name": "com.ajitho.here"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiHzwUxycD5yBjH4nbtz9LgQN76s-lEKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492799146273:android:6e5fcd0a7dcdc3c6f3e660",
+        "android_client_info": {
+          "package_name": "com.example.media_upload"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiHzwUxycD5yBjH4nbtz9LgQN76s-lEKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
