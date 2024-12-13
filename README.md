@@ -19,8 +19,8 @@ How the App Works
   1. Launching the App:
      Upon launching the app, the user will be presented with an option to select a file for upload.
  
-  2.Selecting a File:
-   Users can either choose a file from their device storage 
+    2.Selecting a File:
+    Users can either choose a file from their device storage 
 
   3. Uploading the File: 
      . Start the upload automatically: The upload begins immediately after the user selects a file.
