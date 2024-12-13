@@ -16,32 +16,32 @@ Key Features:
 
 
 How the App Works
-  1. Launching the App
+  1. Launching the App:
      Upon launching the app, the user will be presented with an option to select a file for upload.
  
-  2.Selecting a File
+  2.Selecting a File:
    Users can either choose a file from their device storage 
 
-  3. Uploading the File 
+  3. Uploading the File: 
      . Start the upload automatically: The upload begins immediately after the user selects a file.
      . Real-time progress tracking: As the file uploads, a progress bar shows the percentage of the upload completed.
         . The app tracks the upload progress in the foreground.
         . Even if the app is closed or minimized, the upload continues in the background, and the user will receive a notification of the upload progress.
      
-  5. Background Uploading
+  5. Background Uploading:
       If the user switches away from the app or closes it, the upload will continue in the background. A persistent notification will show the upload progress, 
       allowing the user to monitor the upload even while not actively using the app.
      
-  6.  Video Preview
+  6.  Video Preview:
        . Thumbnail Preview: A thumbnail image of the video is shown once the file is selected.
        .Preview Clip: In some cases, a short preview clip of the video is generated, allowing users to see a portion of the video before deciding to upload it or 
          play the full video.
       
-  7.  Resuming Uploads
+  7.  Resuming Uploads:
        The app supports persistent upload states. If the app is closed while a file is uploading, the app will remember the upload progress and resume uploading 
         once the app is reopened, as long as the file upload is still ongoing.
 
-  8. File Validation
+  8. File Validation:
        . File Size Check: The app ensures that only files that meet the required size of 100MB or more can be uploaded.
        .  Supported File Types: Unsupported file types will prompt an error, and the user will be asked to select a different file.   
 
